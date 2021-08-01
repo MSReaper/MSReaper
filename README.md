@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MSReaper
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning MCa
+- 🌱 I’m currently Pursuing MCA...
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me - mokshith.saliyan081@gmail.com
 
